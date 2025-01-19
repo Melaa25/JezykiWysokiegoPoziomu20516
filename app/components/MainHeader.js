@@ -1,4 +1,4 @@
-import NavLink from './NAvLink';
+import NavLink from './NavLink';
 import Link from 'next/link';
 import classes from './main-header.module.css';
 import MainHeaderBackground from './MainHeaderBackground';
